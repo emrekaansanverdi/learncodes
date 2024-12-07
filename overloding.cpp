@@ -29,4 +29,5 @@ int main ()
     test(4,5); 
     hesapmesaj("merhaba");
     hesapmesaj(5);
+    test;
 }
